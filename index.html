@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Quay Để Uống</title>
+		<link href="spin.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="spin.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	</head>
+	<body onload="javascript:init();">
+		<div id="main">
+			<div id="choice"><div id="ctxt"></div></div>
+			<canvas id="canvas" width="305" height="310">
+				<p class="no">Xin lỗi, trình duyệt của bạn không hỗ trợ HTML5.</p>
+			</canvas>
+			<div class="clear"></div>
+			<div class="cspin">
+				<div id="spin" onclick="javascript:doSpin();" style="display: block;"><img src="start.png" /></div>
+				<div id="spinp" style="display: none;"><img src="startp.png" /></div>
+			</div>
+			<div class="cmode">
+				<div id="mode" onclick="javascript:changeMode();" style="display: block;"><img src="clear.png" /></div>
+				<div id="modep" style="display: none;"><img src="clearp.png" /></div>
+			</div>
+			<img id="wheel" src="wheel.png" />
+			<img id="banhxe" src="banhxe.png" />
+			<img id="point" src="pointer.png" />
+		</div>
+	</body>
+</html>

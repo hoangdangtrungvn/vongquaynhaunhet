@@ -1,0 +1,13 @@
+body {font-family:arial;color:#fff;background-color:#2b2876;margin:0;}
+#main {height:480px;width:320px;margin:0 auto;text-align:center;background:url(background.png);}
+#choice {width:246px;height:40px;border:0;margin-left:37px;margin-top:10px;display:inline;float:left;background:url(textbg.png);}
+#ctxt {color:#883816;font-size:160%;font-weight:bold;padding-top:5px;}
+#point {display:none;}
+#wheel {display:none;}
+#banhxe {display:none;}
+.cspin {display:inline-block;float:left;margin:15px 0 0 45px;}
+.cmode {display:inline-block;float:right;margin:15px 45px 0 0;}
+.cfi {display:inline-block;float:left;text-align:left;height:68px;}
+.fimg {display:inline-block;position:relative;min-width:32px;}
+.no {margin:10px 0;color:#a66;font-weight:bold;font-size:80%;}
+.clear {clear:both;}
