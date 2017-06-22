@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.hoangdangtrung.vongquaynhaunhet"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+  <name>Vòng Quay Nhậu Nhẹt</name>
+
+  <description>
+      Game nhỏ vui nhộn giúp các bạn nhậu giải trí xử lý bia tồn đọng.
+  </description>
+
+  <author href="https://facebook.com/trung.tk43.utehy" email="hoangdangtrungvn@gmail.com">
+      Hoàng Đăng Trung
+  </author>
+
+</widget>
